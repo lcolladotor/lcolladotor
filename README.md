@@ -1,1 +1,1 @@
-[![lcolladotor's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lcolladotor&show_icons=true&theme=vision-friendly-dark&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![lcolladotor's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lcolladotor&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
